@@ -21,7 +21,7 @@
 | 9  | Проверить стабильность, скорости подключения к серверу    | 8             | 2    | 80 80 | 82 82 | No    |
 | 10 | Выпустить релизную версию и сдать проект                  | 4,5,6,7,9     | 1    | 82 82 | 83 83 | No    |
 
-![Google Gantter Screenshot](./src/google_gantter_screenshot.png)
+![Google Gantter Screenshot](https://github.com/nalek0/ProjectManagement/blob/master/hw7/src/google_gantter_screenshot.png)
 
 ### Разберитесь как отобразить (автоматически) критический путь.
 
